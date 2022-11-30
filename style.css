@@ -1,0 +1,16 @@
+.carousel-inner img {
+    height: 650px;
+}
+
+.wrapper-all img {
+    height: 361px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-body img{
+    margin-bottom: 8px;
+    width: 381px;
+}
